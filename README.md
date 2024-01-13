@@ -1,0 +1,1 @@
+This project is about setting up a basic recipe website, containing multiple webpages and links/images. It will be built using HTML.
